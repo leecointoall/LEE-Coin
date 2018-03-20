@@ -1,0 +1,9 @@
+Building LEE
+
+See doc/readme-qt.rst for instructions on building LEE QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LEE.
+
+See doc/build-*.txt for instructions on building LEEd,
+the intended-for-services, no-graphical-interface, reference
+implementation of LEE.
